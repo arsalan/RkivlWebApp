@@ -1,0 +1,5 @@
+C:\CodeRepositories\Scient Projects\Rkivl\Rkivl.Domain\obj\Debug\Rkivl.Domain.csprojResolveAssemblyReference.cache
+C:\CodeRepositories\Scient Projects\Rkivl\Rkivl.Domain\bin\Debug\Rkivl.Domain.dll
+C:\CodeRepositories\Scient Projects\Rkivl\Rkivl.Domain\bin\Debug\Rkivl.Domain.pdb
+C:\CodeRepositories\Scient Projects\Rkivl\Rkivl.Domain\obj\Debug\Rkivl.Domain.dll
+C:\CodeRepositories\Scient Projects\Rkivl\Rkivl.Domain\obj\Debug\Rkivl.Domain.pdb
